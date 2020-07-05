@@ -13,6 +13,9 @@ A ships would be unable to attack if is has been sunk or has run out of ammuniti
 
 - [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) - IDE used
 
-## Authors
+## Author
 
 - **Lyam Lim** - [lyamlim97](https://github.com/lyamlim97)
+
+## Pull requests welcome!
+My code is far from perfect and has lots more of optimization to be done. Spot any errors or have any improvement suggestions? Send a pull request!
