@@ -1,6 +1,5 @@
 # Battleship
-Implementation of Battleship in C++ as the final project for a 3rd year university module "Object-Oriented Programming in C++". I also added my own modifications to the game. 
-
+Implementation of Battleship in C++ as the final project for a 3rd year university module "Object-Oriented Programming in C++". I also added my own modifications to the game.
 
 ## Modifications
 During a players' turn, they choose a ship to attack with.
